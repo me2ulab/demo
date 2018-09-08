@@ -151,7 +151,7 @@ if(isset($_POST['logout']))
 
 					print('<div class="alert alert-success" >');
 					print('<button type="button" class="close" data-dismiss="alert" aria-label="Close"><span aria-hidden="true">&times;</span></button>');
-					print('Message Sent');
+					print('Message has been Sent');
 					print('</div>');
 				}
 			}
