@@ -56,7 +56,7 @@ if(isset($_POST['logout']))
 								echo("<thead>");
 								echo"<tr>";
 								echo"<th>Student Name</th>";
-								echo"<th>Registration Number</th>";
+								echo"<th>Matric Number</th>";
 								echo"<th>Present</th>";
 								echo"<th>Absent</th>";
 								echo"</tr>";
